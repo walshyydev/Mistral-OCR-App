@@ -2,6 +2,12 @@
 
 The **Mistral OCR App** is a Streamlit-based web application that leverages the [Mistral OCR API](https://docs.mistralai.com/) to extract text from both PDF documents and images. Users can either provide a URL or upload a local file. The app displays the original document (or image) in a preview alongside the extracted OCR results and offers a seamless download option—all without refreshing the page.
 
+### 🚀 Try the Mistral OCR App Live!  
+
+🔗 **Live Demo:** [Mistral OCR App](https://mistralocrai.streamlit.app/)  
+
+Experience the power of **Mistral OCR** in action! Upload PDFs or images and extract text seamlessly with this interactive **Streamlit-based OCR app**.  
+
 ## Features
 
 - **Dual File Support:** Process both PDFs and images.
